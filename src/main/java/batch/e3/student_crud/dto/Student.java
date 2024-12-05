@@ -14,7 +14,7 @@ public class Student {
 	private int standard;
 	private long mobile;
 	private int maths;
-	private int sceince;
+	private int science;
 	private int english;
 	private double percentage;
 
@@ -58,12 +58,12 @@ public class Student {
 		this.maths = maths;
 	}
 
-	public int getSceince() {
-		return sceince;
+	public int getScience() {
+		return science;
 	}
 
-	public void setSceince(int sceince) {
-		this.sceince = sceince;
+	public void setScience(int science) {
+		this.science = science;
 	}
 
 	public int getEnglish() {
